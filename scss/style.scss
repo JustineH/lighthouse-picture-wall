@@ -1,4 +1,5 @@
-$primaryColor: #236B8E;
+$primaryColor: #36648B;
+$secondaryColor: #3299CC;
 
 /* CSS */
 body {
@@ -71,5 +72,10 @@ body {
 body {
   h1 {
   color: $primaryColor;
+  text-align: center;
+  }
+  h2 {
+  color: $secondaryColor;
+  text-align: center;
   }
 }

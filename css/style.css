@@ -57,6 +57,10 @@ body {
 
 /* SCSS */
 body h1 {
-  color: #236B8E; }
+  color: #36648B;
+  text-align: center; }
+body h2 {
+  color: #3299CC;
+  text-align: center; }
 
 /*# sourceMappingURL=style.css.map */
