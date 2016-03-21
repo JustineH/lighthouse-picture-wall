@@ -1,6 +1,9 @@
+$primaryColor: #FF0000;
+
+/* CSS */
 body {
   font-family: Verdana;
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 #team-members {
@@ -21,4 +24,11 @@ body {
 
 #team-members .member div.name {
   text-align: center;  
+}
+
+/* SCSS */
+body {
+  h1 {
+  color: $primaryColor;
+  }
 }
